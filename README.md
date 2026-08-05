@@ -75,6 +75,7 @@ The objective of this project is to analyze customer ordering behavior, restaura
 ## 📷 Dashboard Preview
 
 (Dashboard screenshot included in this repository.)
+<img width="1920" height="1200" alt="swiggy dashbord" src="https://github.com/user-attachments/assets/e5b2f428-e4f4-4fe4-9f9e-bd33ef9a570e" />
 
 ---
 
@@ -94,4 +95,4 @@ The objective of this project is to analyze customer ordering behavior, restaura
 
 **Syed Maroof**
 
-If you found this project useful, feel free to ⭐ this repository.<img width="1920" height="1200" alt="swiggy dashbord" src="https://github.com/user-attachments/assets/e5b2f428-e4f4-4fe4-9f9e-bd33ef9a570e" />
+If you found this project useful, feel free to ⭐ this repository.
